@@ -1,10 +1,3 @@
----
-layout: default
-title: Deloitte Australia Cyber Job Simulation
----
-
-[← Back to all simulations](../index.html)
-
 # Deloitte Australia — Cyber Job Simulation
 
 **Role simulated:** Cyber security consultant, Deloitte Australia
