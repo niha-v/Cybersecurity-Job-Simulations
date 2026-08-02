@@ -1,4 +1,5 @@
 # Tata Consultancy Services (TCS)  Cybersecurity IAM Developer Job Simulation
+<img src = "https://github.com/niha-v/Cybersecurity-Job-Simulations/blob/main/tcs_image.png" width = "500" > 
 
 **Role simulated:** Identity and Access Management (IAM) Developer, Cybersecurity Consulting division
 
