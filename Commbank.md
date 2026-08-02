@@ -1,5 +1,7 @@
 # Commonwealth Bank  Introduction to Cybersecurity Job Simulation
 
+<img src = "https://github.com/niha-v/Cybersecurity-Job-Simulations/blob/main/Commbank_image.png" width ="400" >
+
 **Role simulated:** Cybersecurity Generalist, Technology division
 
 A broad, hands-on simulation covering four core areas of day-to-day cybersecurity work at a bank: data analysis and fraud detection, incident response, security awareness, and penetration testing.
@@ -31,6 +33,8 @@ Researched the Australian Cyber Security Centre's (ACSC) password guidance and d
 ### Task 4 — Penetration Testing
 
 Completed 11 guided, beginner-level web application security labs on PortSwigger's Web Security Academy, covering major categories from the OWASP Top 10.
+
+<img src = "https://github.com/niha-v/Cybersecurity-Job-Simulations/blob/main/PortSwigger.png" width ="400" >
 
 - Hands-on exploitation across SQL Injection, Cross-Site Scripting (XSS), Authentication flaws, Access Control, Path Traversal, OS Command Injection, CSRF, Business Logic vulnerabilities, Information Disclosure, Clickjacking, and XXE Injection
 - Documented findings in a full Penetration Testing Report — executive summary, scope and methodology, per-vulnerability findings with business impact, and remediation recommendations for each
