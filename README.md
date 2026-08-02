@@ -1,6 +1,6 @@
-# Cybersecurity Job Simulations through Forage
+# Cybersecurity Job Simulations | Forage
 
-<img src = "https://github.com/niha-v/Cybersecurity-Job-Simulations/blob/main/Forage.png" width ="400" >
+<img src = "https://github.com/niha-v/Cybersecurity-Job-Simulations/blob/main/Forage.png" width ="1000" >
 
 A collection of enterprise virtual job simulations I've completed through Forage, covering security operations, risk assessment, threat analysis, and incident response across four organizations.
  
