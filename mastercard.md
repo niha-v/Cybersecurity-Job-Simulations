@@ -19,7 +19,6 @@ Mastercard's simulation focuses on phishing — one of the most common threats o
 ### Skills demonstrated
 `social engineering awareness` · `phishing analysis` · `security awareness training design` · `stakeholder presentation`
 
-> 📝 Full write-up: *[link to Medium article — add here]*
+> 📝 Full write-up: *https://medium.com/@niharika.umrani/what-i-learned-about-phishing-emails-in-the-mastercard-forage-job-simulation-b55d4c10fc8a?sharedUserId=niharika.umrani*
 
----
-[← Back to all simulations](../index.html)
+
