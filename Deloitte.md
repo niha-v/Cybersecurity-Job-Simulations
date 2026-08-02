@@ -1,4 +1,4 @@
-# Deloitte Australia — Cyber Job Simulation
+# Deloitte Australia Cyber Job Simulation
 <img src = "https://github.com/niha-v/Cybersecurity-Job-Simulations/blob/main/deloitte_image.png" width ="400" >
 
 **Role simulated:** Cyber security consultant, Deloitte Australia
