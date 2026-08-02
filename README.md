@@ -6,10 +6,10 @@ Each simulation below links to a dedicated page with the program overview, the t
 
 | Company | Focus Area | Format |
 |---|---|---|
-| [AIG](https://github.com/niha-v/Cybersecurity-Job-Simulations/blob/main/aig.md) | Vulnerability response & ransomware incident response | Log4j advisory + bruteforce decryption script |
-| [Mastercard](https://github.com/niha-v/Cybersecurity-Job-Simulations/blob/main/mastercard.md) | Phishing simulation & security awareness | Security Analyst virtual experience |
-| [Deloitte Australia](https://github.com/niha-v/Cybersecurity-Job-Simulations/blob/main/deloitte.md) | Data breach investigation | Cyber security job simulation |
-| [Datacom](https://github.com/niha-v/Cybersecurity-Job-Simulations/blob/main/datacom.md) | Risk assessment & threat analysis | Cybersecurity operations simulation |
+| [AIG](https://github.com/niha-v/Cybersecurity-Job-Simulations/blob/main/AIG.md) | Vulnerability response & ransomware incident response | Log4j advisory + bruteforce decryption script |
+| [Mastercard](https://github.com/niha-v/Cybersecurity-Job-Simulations/blob/main/Mastercard.md) | Phishing simulation & security awareness | Security Analyst virtual experience |
+| [Deloitte Australia](https://github.com/niha-v/Cybersecurity-Job-Simulations/blob/main/Deloitte.md) | Data breach investigation | Cyber security job simulation |
+| [Datacom](https://github.com/niha-v/Cybersecurity-Job-Simulations/blob/main/Datacom.md) | Risk assessment & threat analysis | Cybersecurity operations simulation |
 
 ---
 
