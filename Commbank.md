@@ -10,6 +10,8 @@ A broad, hands-on simulation covering four core areas of day-to-day cybersecurit
 
 Analyzed a synthetic financial transactions dataset (payments across May–August, including customer demographics, merchant, category, and fraud labels) to help the Fraud team spot patterns.
 
+<img src = "https://github.com/niha-v/Cybersecurity-Job-Simulations/blob/main/dashboard.png" width ="400" >
+
 - Explored the dataset's fields — step (month), customer demographics, merchant, category, transaction amount, and fraud flag
 - Built a dashboard visualizing transaction counts by category, age group, and merchant, alongside fraud-specific breakdowns by age, category, month, and gender
 - Identified the highest-risk patterns: female customers accounted for the largest share of fraudulent transactions, concentrated heavily in the transportation category; the 19–25 age group was the most fraud-prone age bracket, concentrated at a single merchant
@@ -25,6 +27,8 @@ Given a timeline of a live incident — a phishing email impersonating HR, follo
 ### Task 3 — Security Awareness: Password Security Infographic
 
 Researched the Australian Cyber Security Centre's (ACSC) password guidance and designed a one-page infographic for fellow employees.
+
+<img src = "https://github.com/niha-v/Cybersecurity-Job-Simulations/blob/main/password.png" width ="400" >
 
 - Translated ACSC guidance — passphrases of 14+ characters made of 4+ random words, unique passwords per account, password managers, and MFA — into a clear, visual, non-technical format
 - Included a do's/don'ts checklist and a short/long password comparison to make the "why" intuitive, not just the "what"
