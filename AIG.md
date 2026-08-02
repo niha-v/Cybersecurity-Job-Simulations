@@ -1,4 +1,5 @@
-# AIG — Cybersecurity Job Simulation
+# AIG  Cybersecurity Job Simulation
+<img src = "https://github.com/niha-v/Cybersecurity-Job-Simulations/blob/main/aig_image.png" width ="400" >
 
 **Role simulated:** Information Security Analyst, Cyber & Information Security Team
 
