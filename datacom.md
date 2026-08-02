@@ -1,10 +1,3 @@
----
-layout: default
-title: Datacom Cybersecurity Job Simulation
----
-
-[← Back to all simulations](../index.html)
-
 # Datacom — Cybersecurity Simulation
 
 **Role simulated:** Cybersecurity team member
@@ -31,4 +24,3 @@ Practiced systematically identifying and prioritizing organizational risk.
 `risk assessment` · `threat analysis` · `breach impact analysis` · `governance, risk & compliance (GRC)` · `security reporting`
 
 ---
-[← Back to all simulations](../index.html)
