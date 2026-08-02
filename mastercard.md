@@ -1,10 +1,3 @@
----
-layout: default
-title: Mastercard Cybersecurity Job Simulation
----
-
-[← Back to all simulations](../index.html)
-
 # Mastercard — Cybersecurity Virtual Experience Program
 
 **Role simulated:** Security Analyst, Security Awareness team
