@@ -1,11 +1,4 @@
----
-layout: default
-title: Commonwealth Bank Introduction to Cybersecurity Job Simulation
----
-
-[← Back to all simulations](../index.html)
-
-# Commonwealth Bank — Introduction to Cybersecurity Job Simulation
+# Commonwealth Bank  Introduction to Cybersecurity Job Simulation
 
 **Role simulated:** Cybersecurity Generalist, Technology division
 
@@ -46,5 +39,3 @@ Completed 11 guided, beginner-level web application security labs on PortSwigger
 ### Skills demonstrated
 `data analysis` · `data visualization` · `fraud detection` · `incident response` · `log analysis` · `security awareness content design` · `penetration testing` · `vulnerability assessment` · `technical report writing`
 
----
-[← Back to all simulations](../index.html)
