@@ -11,6 +11,8 @@ Each simulation below links to a dedicated page with the program overview, the t
 | [Deloitte Australia](https://github.com/niha-v/Cybersecurity-Job-Simulations/blob/main/Deloitte.md) | Breach investigation via web log analysis | Cyber consultant — Daikibo Industrials case |
 | [Datacom](https://github.com/niha-v/Cybersecurity-Job-Simulations/blob/main/Datacom.md) | Ransomware impact analysis & enterprise risk assessment | Analyst Graduate — Orion Health & RetailNova cases |
 | [TCS](https://github.com/niha-v/Cybersecurity-Job-Simulations/blob/main/TCS.md) | IAM strategy, solution design & rollout planning | IAM Developer — TechCorp Enterprises engagement |
+| [Commonwealth Bank](https://github.com/niha-v/Cybersecurity-Job-Simulations/blob/main/Commbank.md) | Fraud analytics, incident response, security awareness & pentesting | Cybersecurity Generalist — 4-part simulation | 
+
 ---
 
 ### About these simulations
