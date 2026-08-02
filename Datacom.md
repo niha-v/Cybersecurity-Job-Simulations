@@ -1,4 +1,5 @@
-# Datacom — Cybersecurity Simulation
+# Datacom Cybersecurity Simulation
+<img src = "https://github.com/niha-v/Cybersecurity-Job-Simulations/blob/main/datacom_image.png" width ="400" >
 
 **Role simulated:** Cybersecurity team member
 
