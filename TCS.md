@@ -1,11 +1,4 @@
----
-layout: default
-title: TCS Cybersecurity IAM Developer Job Simulation
----
-
-[← Back to all simulations](../index.html)
-
-# Tata Consultancy Services (TCS) — Cybersecurity IAM Developer Job Simulation
+# Tata Consultancy Services (TCS)  Cybersecurity IAM Developer Job Simulation
 
 **Role simulated:** Identity and Access Management (IAM) Developer, Cybersecurity Consulting division
 
@@ -45,6 +38,3 @@ Translated the solution designs into an actionable rollout plan, delivered as a 
 
 ### Skills demonstrated
 `identity and access management (IAM)` · `security posture assessment` · `solution design` · `implementation planning` · `stakeholder communication` · `enterprise security consulting` · `presentation design`
-
----
-[← Back to all simulations](../index.html)
