@@ -13,7 +13,4 @@ Deloitte's simulation is framed around supporting a client through a live cyber 
 ### Skills demonstrated
 `log analysis` · `incident investigation` · `client-facing security consulting` · `attack source identification`
 
-> 📝 *[Add personal reflections / write-up here]*
 
----
-[← Back to all simulations](../index.html)
