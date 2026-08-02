@@ -1,10 +1,3 @@
----
-layout: default
-title: AIG Cybersecurity Job Simulation
----
-
-[← Back to all simulations](../index.html)
-
 # AIG — Cybersecurity Job Simulation
 
 **Role simulated:** Information Security Analyst, Cyber & Information Security Team
@@ -55,5 +48,3 @@ if __name__ == "__main__":
 ### Skills demonstrated
 `CISA advisory research` · `vulnerability triage` · `stakeholder communication` · `incident response` · `Python scripting` · `password/hash bruteforcing`
 
----
-[← Back to all simulations](../index.html)
